@@ -1,0 +1,6 @@
+.gradle
+/build/
+/alist-rest/build/
+/alist-ui/build/
+/alist-ui/dist/
+/alist-ui/node_modules/
